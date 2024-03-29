@@ -8,13 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors:{
+      colors: {
         "btn-def-color": "#2D2D2D",
         "btn-func-color": "#707070",
         "btn-res-color": "#1BC300",
-        "btn-def-hover-color": "#EE9039"
-      }
-    }
+        "btn-def-hover-color": "#EE9039",
+      },
+    },
   },
   plugins: [],
 };
