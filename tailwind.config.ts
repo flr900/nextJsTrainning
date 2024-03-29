@@ -12,7 +12,7 @@ const config: Config = {
         "btn-def-color": "#2D2D2D",
         "btn-func-color": "#707070",
         "btn-res-color": "#1BC300",
-        "black": "#000000"
+        "btn-def-hover-color": "#EE9039"
       }
     }
   },
